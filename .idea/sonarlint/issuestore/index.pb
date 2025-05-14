@@ -7,3 +7,5 @@ X
 (contracts/cross-domain-verification.clar,a/6/a6fc9a5ab12f20fb57d081c6a717021d25c6f283
 ]
 -contracts/identity-provider-verification.clar,6/7/67270450d2e490323f7ebeb5490f61ee0e50accf
+N
+contracts/trust-framework.clar,c/e/ced5e20244c6ef24c66af1b782fd3d7a51ace8e9
